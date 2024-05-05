@@ -1,0 +1,15 @@
+KRONBORG MAXIMILIAN:
+Investigate use of various methods and libraries for pre-processing, as well as various approaches to spell-correction, including the integration of MOE with baseline.
+Experiment with result of different pre-processing stages on various pre-trained model types.
+
+DENG XINHONG:
+Ensemble Bert and corresponding experiment
+
+CHAN CHEONG:
+cls-last-attention, reimplement LSTM model
+
+PENG WEI-LUN:
+Contrastive learning approach, reimplement CNN models and ensemble the downstream models.
+
+CHIA BOON YANG:
+two stage binary classification, one-versus-rest classification
